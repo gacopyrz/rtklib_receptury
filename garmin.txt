@@ -1,0 +1,3 @@
+# przykład użycia programu rnx2rtkp dla pliku obserwacyjnego Garmina i nawigacyjnego z u-bloxa9
+
+rnx2rtkp -k garmin.conf -ts 2024/06/26 15:06:00.0 -te 2024/06/26 15:23:00.0 garmin.obs u-blox9.nav > garmin.pos

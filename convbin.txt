@@ -1,0 +1,2 @@
+# Przykład uzycia polecenia convbin
+convbin -d . -y R -y C -y S -od -os -oi -ot ../ubx/R9_2024-06-26_16_59.ubx
